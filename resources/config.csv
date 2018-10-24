@@ -1,0 +1,2 @@
+Minor,ttyName,interface,mode,alias,parity,stopbits,bytesize,baudrate,timeout
+0,ttyUSB0,0,rtu,spu,N,1,8,57600,3
